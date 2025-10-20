@@ -1,5 +1,6 @@
 #!/bin/bash
-# Unreal secrets
+# Unreal secrets - fake password and SSH private key to see if GHAS will
+# detectthem.
 
 prodPassword="fake Cr3d$"
 
